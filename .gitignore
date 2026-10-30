@@ -1,0 +1,12 @@
+# Logs and local outputs
+*.log
+screenshots/
+
+# Environment variables & local configs
+.env
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
